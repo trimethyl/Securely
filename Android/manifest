@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 3.1.0
+version: 3.2.0.TRIMETHYL
 apiversion: 3
 architectures: armeabi-v7a x86
 description: Security Plugin for Titanium Development
